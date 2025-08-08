@@ -77,7 +77,8 @@ The main goal is to compare model performances and improve accuracy through **fe
    cd housing-price-prediction
 3. Run the notebook in Jupyter or Google Colab.
 
-## 📬 Contact
-Author: Hemanth Yarra
-LinkedIn: [hemanth-yarra](https://www.linkedin.com/in/hemanth-yarra-5a1775305/)
-Email: yarrahemanth5@gmail.com
+## 📬 Contact  
+Author: Hemanth Yarra  
+LinkedIn: [hemanth-yarra](https://www.linkedin.com/in/hemanth-yarra-5a1775305/)  
+Email: yarrahemanth5@gmail.com  
+ 
